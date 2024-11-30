@@ -16,7 +16,7 @@ This repository hosts my single-page HTML CV showcasing my career history, educa
 1. Clone this repository or download the `index.html` file.
 2. Open the file in any web browser to view the CV.
 3. ## View the CV Online
-You can view the CV online here: [my-CV](https://alpha608.github.io/my-cv/)
+You can view the CV online here: [my-CV](https://roadmap.sh/projects/single-page-cv)
 
 ## How to Use Locally
 1. Clone this repository:
